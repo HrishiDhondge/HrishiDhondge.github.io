@@ -1,9 +1,9 @@
 # main text of home
-name: Eden Au
-bio: Currently based in Edinburgh, I am a PhD student at the University of Edinburgh, majored in machine learning and climate modeling.
+name: Hrishikesh Dhondge
+bio: PhD student in Computational Biology, ML enthusiast.
 
 # twitter summary info
-description: "Data Scientist 📈 · Blogger ✍️ · Polyglot 🈴 · #ChelseaFC 💙⚽ · 🇭🇰🇬🇧"
+description: "PhD student at LORIA-INRIA, Nancy"
 
 # if it's an external image, update below for true
 # better with square images
@@ -12,16 +12,16 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
+resume: false
 resume-external: false
-resume-url: resume
+# resume-url: resume
 
 url: https://hrishidhondge.github.io
 
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-analytics-google: 'UA-131317483-1'
+analytics-google: 'UA-135643685-1'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -29,20 +29,20 @@ analytics-google: 'UA-131317483-1'
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: edenau-github-io # enter this from your disqus account
+  shortname: hrishidhondge-github-io # enter this from your disqus account
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-github: edenau
-linkedin: edenau
-twitter: au_eden
+github: HrishiDhondge
+linkedin: hbdhondge
+twitter: hrishikesh-dhondge
 #google: username
-googlescholar: Jh0YPVkAAAAJ
-medium: edenau
-kaggle: edenau
+#googlescholar: Jh0YPVkAAAAJ
+#medium: edenau
+#kaggle: edenau
 #codewars: edenau
-email: eden.au@ed.ac.uk
+email: hbdhondge@gmail.com
 # youtube: channel/UC3Q7iZXB950Bvtjpml9jqZg
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -56,12 +56,12 @@ email: eden.au@ed.ac.uk
 # lanyrd: mylanyrd
 
 authors:
-    edenau:
-        name: Eden Au
-        bio: share the joy💪
+    HrishiDhondge:
+        name: Hrishikesh Dhondge
+        #bio: share the joy💪
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: au_eden
+        twitter: hbdhondge
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -73,12 +73,12 @@ width: large
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+#projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
-teaching: true
+#blog: true
+#teaching: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
