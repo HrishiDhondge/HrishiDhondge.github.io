@@ -35,8 +35,8 @@ title: Resume
 <p>
 <ul>
   <li>
-    2019 – Present: <b> PhD in Computational Biology, at <i>LORIA-INRIA, Nancy.</i></a>.</b> <br>
-    Marie-Sklodowska Curie PhD student. Part of <a href="http://ranct.eu/" target="_blank">RNAct</a> MSCA-ITN project.
+    2019 – Present: <b> PhD in Computational Biology, at <a href="https://www.loria.fr/en/" target="_blank"><i>LORIA-INRIA, Nancy.</i></a>.</b> <br>
+    Marie-Sklodowska Curie PhD student. Part of <a href="http://rnact.eu/" target="_blank">RNAct</a> MSCA-ITN project.
   </li>
   <li>
     2017 – 2019: <b> MSc in Bioinformatics, <a href="https://bicpu.edu.in/" target="_blank"> <i>Centre for Bioinformatics, Pondicherry University</i></a>.</b> <br>
