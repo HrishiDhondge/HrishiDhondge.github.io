@@ -84,7 +84,7 @@ I am an adaptable professional that embraces teamwork, but also enjoys working i
 
 <h4>Skills</h4>
 <p>
-I am a fast learner and I am interested in learning new programming and natural languages. 
+I am a fast learner and I am interested in learning new skills. 
 <ul>
   <li>
     Programming languages: <b>Python, PERL, SQL</b>
