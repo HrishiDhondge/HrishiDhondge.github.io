@@ -28,19 +28,19 @@ title: Resume
 }
 </style>
 
-<p></p><p></p>
-<!--- <center>
-<a class="button" href="/assets/docs/Au.pdf" target="_blank"><span><img src="../assets/images/download.png" height="18px" style="padding-top:5px; margin-right:5px;">  PDF version</span></a>
-</center> --->
-
+<p></p>
 <i>Last updated on 23 August 2020.</i>
 
 <h4>Education</h4>
 <p>
 <ul>
-  
   <li>
-    2017 – 2019: <b> MSc in Bioinformatics, <a href="https://bicpu.edu.in/" target="_blank"> <i>Centre for Bioinformatics, Pondicherry University</i></a>. <i>Thesis topic: DNA-based data storage system. Supervisors: <a href="http://www.pondiuni.edu.in/profile/dr-m-suresh-kumar" target="_blank">Dr. M. Suresh Kumar</a>.</i>
+    2019 – Present: <b> PhD in Computational Biology, at <i>LORIA-INRIA, Nancy.</i></a>.</b> <br>
+    Marie-Sklodowska Curie PhD student. Part of <a href="http://ranct.eu/" target="_blank">RNAct</a> MSCA-ITN project.
+  </li>
+  <li>
+    2017 – 2019: <b> MSc in Bioinformatics, <a href="https://bicpu.edu.in/" target="_blank"> <i>Centre for Bioinformatics, Pondicherry University</i></a>.</b> <br>
+    Thesis topic: DNA-based data storage system. Supervisor: <a href="http://www.pondiuni.edu.in/profile/dr-m-suresh-kumar" target="_blank">Dr. M. Suresh Kumar</a>.
   </li>
   <li>
     2014 – 2017: <b> BSc in Bioinformatics, <i><a href="http://www.mgmccsit.ac.in/" target="_blank">MGM's college of CS & IT, Nanded</a> affiliated to <a href="http://www.srtmun.ac.in/en/" target="_blank">SWAMI RAMANAND TEERTH MARATHWADA UNIVERSITY, Nanded</a></i>.</b> 
