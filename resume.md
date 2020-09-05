@@ -37,8 +37,8 @@ title: Resume
 
 <h4>Education</h4>
 <p>
-I received MEng (Oxon.) in 2018, before starting my PhD in Edinburgh. My PhD project is about using machine learning in climate modeling.
 <ul>
+  
   <li>
     2017 – 2019: <b> MSc in Bioinformatics, <a href="https://bicpu.edu.in/" target="_blank"> <i>Centre for Bioinformatics, Pondicherry University</i></a>. <i>Thesis topic: DNA-based data storage system. Supervisors: <a href="http://www.pondiuni.edu.in/profile/dr-m-suresh-kumar" target="_blank">Dr. M. Suresh Kumar</a>.</i>
   </li>
