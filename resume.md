@@ -39,7 +39,7 @@ title: Resume
     Marie-Sklodowska Curie PhD student. Part of <a href="http://rnact.eu/" target="_blank">RNAct</a> MSCA-ITN project.
   </li>
   <li>
-    2017 – 2019: <b> MSc in Bioinformatics, <a href="https://bicpu.edu.in/" target="_blank"> <i>Centre for Bioinformatics, Pondicherry University</i></a>.</b> <br>
+    2017 – 2019: <b> MSc in Bioinformatics, <a href="https://bicpu.edu.in/" target="_blank"> <i>Centre for Bioinformatics</i></a>, Pondicherry University.</b> <br>
     Thesis topic: DNA-based data storage system. Supervisor: <a href="http://www.pondiuni.edu.in/profile/dr-m-suresh-kumar" target="_blank">Dr. M. Suresh Kumar</a>.
   </li>
   <li>
